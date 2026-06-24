@@ -25,4 +25,4 @@ A lightweight userscript that automatically captures, sorts, and downloads Manga
 ## ⚙️ Installation
 
 1. Install the [Tampermonkey](https://tampermonkey.net) extension for your browser.
-2. Click on your published script link on **Greasy Fork** (or open your `script.user.js` file directly) and click **Install**.
+2. Click on your published script link on **[Greasy Fork](https://greasyfork.org/ru/scripts/584172-mangaplus-sorted-stream-downloader-png)** (or open your `script.user.js` file directly) and click **Install**.
